@@ -1,2 +1,2 @@
-# Queens Arts Map
-QCC Map
+# Queens Culture Map
+
